@@ -1,2 +1,2 @@
 # InformationRetrievalPublic
- UAS IR
+Creating Sentiment anaylysis using vaderSentiment for Information Retrieval
